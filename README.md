@@ -1,2 +1,2 @@
-# Pr-tica-em-LSE
+# Prática-em-LSE
 Listas simplesmente encadeadas
