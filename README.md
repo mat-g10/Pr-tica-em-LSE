@@ -1,2 +1,1 @@
-# Pratica-em-LSE
-Listas simplesmente encadeadas GAMES
+# Pratica-em-AED2
