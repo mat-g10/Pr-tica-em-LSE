@@ -1,1 +1,1 @@
-# Pratica-em-AED2
+# Pratica-em-Algoritmos-e-Estruturas-de-Dados
