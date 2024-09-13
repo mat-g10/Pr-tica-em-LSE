@@ -1,1 +1,1 @@
-# Pratica-em-Algoritmos-e-Estruturas-de-Dados
+# Pratica em Algoritmos e Estruturas de Dados
